@@ -1,5 +1,4 @@
-## Hi, my name is TAN JING HENG.
-## AGE : 19 years old
+## Hi, my name is TAN JING HENG.I study at UNIVERSITI TEKNOLOGI MALAYSIA and my course is Bachelor In Computer Science(Data Engineering) With Honours
 
 <!--
 **jh-2007/jh-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
