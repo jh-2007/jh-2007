@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, my name is TAN JING HENG.
+## AGE : 19 years old
 
 <!--
 **jh-2007/jh-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
