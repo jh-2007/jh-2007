@@ -4,7 +4,7 @@
 <!-- Upload your photo to your GitHub repository (e.g., name it profile.jpg) or copy an image link -->
 <img src="profile.jpg" alt="Profile Picture" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm TAN JING HENG 👋
 
 🎓 **Data Engineering Student @ Universiti Teknologi Malaysia (UTM)**  
 💡 Passionate about **Data Analytics, Machine Learning, and Software Development**
