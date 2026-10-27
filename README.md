@@ -70,6 +70,6 @@
 
 ## 📫 Let's Connect!
 
-- 🌐 **LinkedIn:** [Your Name](https://linkedin.com/in/your-linkedin)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 🌐 **LinkedIn:** JING HENG TAN(https://linkedin.com/in/your-linkedin)
+- 📧 **Email:** jhtan100@gmail.com(mailto:your.email@example.com)
 - 📍 **Location:** Johor, Malaysia
